@@ -1,0 +1,236 @@
+{
+  "Project": "Propofol",
+  "SnapshotFile": "C:\\Qualification-Ontogeny-UGT1A9\\re_input\\temp\\_project\\Propofol.json",
+  "OutputFolder": "C:\\Qualification-Ontogeny-UGT1A9\\re_input",
+  "ObservedDataFolder": "C:\\Qualification-Ontogeny-UGT1A9\\re_input\\ObservedData",
+  "InputsFolder": "C:\\Qualification-Ontogeny-UGT1A9\\re_input\\Inputs",
+  "MappingFile": "C:\\Qualification-Ontogeny-UGT1A9\\re_input\\temp\\Propofol\\mapping.json",
+  "TempFolder": "C:\\Qualification-Ontogeny-UGT1A9\\re_input\\temp\\Propofol",
+  "ReportConfigurationFile": "C:\\Qualification-Ontogeny-UGT1A9\\re_input\\report-configuration-plan.json",
+  "SimulationPlots": [
+    {
+      "Simulation": "#41_Gepts 1987 12mg_kg",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#41_Gepts 1987 18mg_kg",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#41_Gepts 1987 36mg_kg",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#41_Gepts-1987 6mg_kg",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#45_Schnider 1998 1mg&25ug",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#45_Schnider 1998 1mg&50ug",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#45_Schnider 1998 2mg&100ug",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#45_Schnider 1998 2mg&200ug",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#45_Schnider 1998 2mg&25ug",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#45_Schnider 1998 2mg&50ug",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#42_Struys 2007 Bolus Study",
+      "Project": "Propofol",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "#30_Kataria-1994_10",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_11",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_12",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_13",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_14",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_15",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_16",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_20",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_202",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_21",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_22",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_23",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_24",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_25",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_26",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_30",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_31",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_32",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_34",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_35",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_36",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "#30_Kataria-1994_37",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.1",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.10",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.2",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.3",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.4",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.5",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.6",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.7",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.8",
+      "Project": "Propofol",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Saint-Maurice 1989 ind.9",
+      "Project": "Propofol",
+      "SectionId": 32
+    }
+  ],
+  "Inputs": [
+    {
+      "Type": "Compound",
+      "Name": "Propofol",
+      "Project": "Propofol",
+      "SectionId": 40
+    }
+  ],
+  "BuildingBlocks": []
+}
